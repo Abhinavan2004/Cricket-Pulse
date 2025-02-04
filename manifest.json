@@ -1,0 +1,16 @@
+{
+  "name": "Match Score Teller",
+  "version": "1.0.0",
+  "description": "Best Extension in the Universe",
+  "manifest_version": 3,
+  "author": "Abhinav Anpan",
+  "permissions": ["activeTab"],
+"icons": {
+    "128": "image.png"
+  },
+  "host_permissions": ["https://api.cricapi.com/*"],
+  "action": {
+      "default_popup": "index.html"
+  }
+  
+}
