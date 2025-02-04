@@ -1,5 +1,6 @@
 # Cricket Pulse
-# Chrome Extension
+## Chrome Extension
+---
 
 ## Overview
 **Cricket Pulse** is a simple and useful Chrome extension that keeps you updated with the latest cricket matches. It provides real-time information on recent matches, including team names, match formats, winning teams, and margins.
